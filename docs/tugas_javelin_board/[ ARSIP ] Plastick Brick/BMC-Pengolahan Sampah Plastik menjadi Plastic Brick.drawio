@@ -1,0 +1,109 @@
+<mxfile host="Electron" modified="2023-11-22T02:22:48.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="rKjkneQfpPeSHg3mlPUz" version="22.1.2" type="device">
+  <diagram name="Page-1" id="JpBmJwD-NgiMriXVXKh-">
+    <mxGraphModel dx="1467" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xn9P2Q3DeKerBUGj1INa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-2" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Partnerships&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-3" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;- Mitra lokal untuk pasokan sampah plastik.&lt;/p&gt;&lt;div align=&quot;left&quot;&gt;- Pemasok bahan baku (misalnya, bahan tambahan untuk produk).&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#05FFFF;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-5" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Activities&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="260" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-6" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Pengumpulan, pemrosesan, dan pencetakan sampah plastik.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Pemasaran dan promosi produk.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Pengembangan dan inovasi produk.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="117" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#267D7A;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-8" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Resources&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="260" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-9" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;/p&gt;&lt;div&gt;- Fasilitas pengolahan sampah plastik.&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;- Peralatan pengolahan, pencetakan, dan pemotongan.&lt;/div&gt;&lt;div&gt;- Tim manajemen dan pekerjaan terampil.&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;- Mitra untuk pasokan sampah plastik.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="260" y="314" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9978E7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-11" value="&lt;strong&gt;Customer Relationships&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="660" y="88" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-12" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;/p&gt;- Edukasi dan kesadaran tentang manfaat produk kami.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="148.5" width="160" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C1C0C2;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-14" value="&lt;font&gt;&lt;strong&gt;Key Channels&lt;br&gt;&lt;/strong&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="660" y="288" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-15" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;/p&gt;&lt;div&gt;- Pemasaran online melalui website dan media sosial.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Mitra lokal untuk pengumpulan sampah plastik.&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingTop=10;" parent="1" vertex="1">
+          <mxGeometry x="660" y="320" width="160" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD21F;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="840" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-17" value="&lt;div&gt;&lt;strong&gt;Customer&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Segments&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="860" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-18" value="&lt;div&gt;- Kontraktor konstruksi yang peduli lingkungan.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pabrik dan produsen yang membutuhkan bahan bangunan ramah lingkungan.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Pemilik Rumah yang ingin berkontribusi pada pengurangan sampah plastik.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="130" width="160" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB3FC;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-20" value="&lt;strong&gt;Value Propositions&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="460" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-21" value="&lt;div&gt;- Plastic brick ramah lingkungan yang terbuat dari sampah plastik daur ulang.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Kualitas dan kekuatan produk yang setara dengan bata konvensional.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Kontribusi positif terhadap keberlanjutan dan lingkungan.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="130" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8A909C;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="500" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-23" value="&lt;strong&gt;Cost Structure&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="60" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-24" value="&lt;div&gt;- Biaya operasional fasilitas pengolahan.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Gaji dan upah pekerja.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Biaya pemasaran dan promosi.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Biaya distribusi produk.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Biaya untuk penukaran dengan sampah pada Bank Sampah (Trash Money)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="60" y="521" width="440" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="540" y="480" width="500" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-26" value="&lt;strong&gt;Revenue Streams&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-27" value="&lt;div&gt;- &lt;strong&gt;&lt;/strong&gt;Penjualan bata plastik kepada kontraktor dan pemerintah daerah.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Biaya pemrosesan sampah plastik menjadi produk yang memiliki nilai manfaat.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Proyek konstruksi berkelanjutan yang melibatkan produk kami.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="516" width="440" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsvd3PdFRVbSGHqwABp-1" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Kerjasama pihak pengelola sampah, seperti&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;- Bank Sampah (Trash Money)&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;- Pengepul Rongsokan&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;Kerjasama pada perusahaan bahan baku produk&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="370" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsvd3PdFRVbSGHqwABp-2" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Exiting&lt;br&gt;Aternative&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsvd3PdFRVbSGHqwABp-3" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;High Level Concept&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsvd3PdFRVbSGHqwABp-4" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;Dapat diimplementasikan tidak hanya dalam bahan baku berupa plastic brick&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="370" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsvd3PdFRVbSGHqwABp-5" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Early Adopters&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="860" y="324" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsvd3PdFRVbSGHqwABp-6" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;- Orang bangun rumah&lt;/p&gt;&lt;p style=&quot;line-height: 100%;&quot;&gt;- Kontraktor&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="364" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

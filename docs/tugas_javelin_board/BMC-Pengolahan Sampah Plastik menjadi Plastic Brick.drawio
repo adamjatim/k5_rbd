@@ -1,0 +1,198 @@
+<mxfile host="Electron" modified="2023-11-25T17:07:33.814Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="rOmnazoYW2hh_yYt4gQv" version="22.1.2" type="device" pages="2">
+  <diagram name="BMC" id="JpBmJwD-NgiMriXVXKh-">
+    <mxGraphModel dx="1100" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xn9P2Q3DeKerBUGj1INa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-2" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Partnerships&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-3" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;Mitra pemerintah untuk regulasi dan izin.&lt;/li&gt;&lt;li&gt;Mitra bisnis lokal untuk lokasi pemasangan mesin.&lt;/li&gt;&lt;li&gt;Mitra keuangan untuk pendanaan dan dukungan keuangan lainnya.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="131" width="208" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#05FFFF;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-5" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Activities&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="260" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-6" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;ul style=&quot;line-height: 180%;&quot;&gt;&lt;li&gt;Pengelolaan dan pemeliharaan mesin TrashMoney.&lt;/li&gt;&lt;li&gt;Pengelolaan sistem insentif dan program loyalitas.&lt;/li&gt;&lt;li&gt;Kampanye pemasaran dan edukasi lingkungan.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="117" width="220" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#267D7A;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-8" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Resources&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="260" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-9" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;ul style=&quot;line-height: 130%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mesin TrashMoney dan teknologi terkait.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Tim teknis untuk pemeliharaan dan perbaikan mesin.&lt;/li&gt;&lt;li&gt;Mitra untuk pembuangan dan daur ulang botol plastik.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FAFAFA;perimeterSpacing=12;" parent="1" vertex="1">
+          <mxGeometry x="231" y="320" width="200" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9978E7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-11" value="&lt;strong&gt;Customer Relationships&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="660" y="88" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-12" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;ul style=&quot;line-height: 110%;&quot;&gt;&lt;li&gt;Layanan pelanggan online untuk membantu pengguna dan pemilik bisnis.&lt;/li&gt;&lt;li&gt;Program loyalitas untuk mendorong penggunaan berulang.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kampanye pemasaran sosial untuk meningkatkan kesadaran akan dampak positif pada lingkungan.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="157" width="200" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C1C0C2;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-14" value="&lt;font&gt;&lt;strong&gt;Key Channels&lt;br&gt;&lt;/strong&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="660" y="288" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-15" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Mesin TrashMoney di lokasi strategis seperti pusat perbelanjaan, pasar tradisional, dan tempat umum lainnya.&lt;/li&gt;&lt;li&gt;Aplikasi seluler untuk memantau lokasi dan status mesin, serta memberikan insentif khusus.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingTop=10;" parent="1" vertex="1">
+          <mxGeometry x="628" y="327" width="207" height="123.75" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD21F;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="840" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-17" value="&lt;div&gt;&lt;strong&gt;Customer&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Segments&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="860" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-18" value="&lt;div&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;Individu yang peduli terhadap lingkungan.&lt;/li&gt;&lt;li&gt;Individu yang peduli terhadap lingkungan.&lt;/li&gt;&lt;li&gt;Pemilik bisnis yang ingin mendukung inisiatif daur ulang.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="827" y="130" width="200" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB3FC;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-20" value="&lt;strong&gt;Value Propositions&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="460" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-21" value="&lt;div&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;Penukaran botol plastik dengan uang atau insentif lainnya.&lt;/li&gt;&lt;li&gt;Kontribusi positif terhadap lingkungan dengan mendaur ulang botol plastik.&lt;/li&gt;&lt;li&gt;Kemudahan akses dan penggunaan mesin TrashMoney untuk penukaran botol.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="421" y="125" width="221" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8A909C;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="500" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-23" value="&lt;strong&gt;Cost Structure&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="60" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-24" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Biaya perawatan dan pemeliharaan mesin TrashMoney.&lt;/li&gt;&lt;li&gt;Biaya pemasangan mesin di lokasi strategis.&lt;/li&gt;&lt;li&gt;Biaya pemasaran dan promosi.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FAFAFA;" parent="1" vertex="1">
+          <mxGeometry x="60" y="521" width="440" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="540" y="480" width="500" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-26" value="&lt;strong&gt;Revenue Streams&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cxXFxyTip6eLKkZD7Oe-27" value="&lt;ul style=&quot;line-height: 190%;&quot;&gt;&lt;li&gt;Pendapatan dari penjualan botol plastik yang terkumpul.&lt;/li&gt;&lt;li&gt;Pendapatan dari iklan atau sponsor yang ingin mendukung inisiatif lingkungan.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="516" width="440" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eCfUZTgL4Ngtnkues2F4" name="Lean Canvas">
+    <mxGraphModel dx="1035" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="78ibLP574exwTAd41yx--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--2" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Problem&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--3" value="&lt;ul&gt;&lt;li&gt;Kurangnya kesadaran lingkungan di kalangan masyarakat.&lt;/li&gt;&lt;li&gt;Masalah pembuangan sampah plastik yang tidak ramah lingkungan.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="122" width="210" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#05FFFF;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--5" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Solution&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--6" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;ul&gt;&lt;li&gt;Mesin TrashMoney untuk penukaran botol plastik dengan insentif uang.&lt;/li&gt;&lt;li&gt;Kampanye edukasi lingkungan untuk meningkatkan kesadaran.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="226" y="117" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#267D7A;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--8" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Key Metrics&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--9" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Jumlah botol plastik yang dikumpulkan.&lt;/li&gt;&lt;li&gt;Tingkat partisipasi pengguna.&lt;/li&gt;&lt;li&gt;Dampak lingkungan positif.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="229" y="314" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9978E7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--11" value="&lt;strong&gt;&lt;font color=&quot;#ffffff&quot;&gt;Unvair Advantage&lt;/font&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="660" y="88" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--12" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;strong&gt;Instant Reward:&lt;/strong&gt; TrashMoney memberikan insentif uang langsung melalui penukaran botol plastik, memberikan pengguna kepuasan instan.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;strong&gt;Environmental Impact:&lt;/strong&gt; Selain uang, pengguna juga berkontribusi pada pelestarian lingkungan dengan mendaur ulang sampah plastik.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="619" y="157.5" width="217" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8F7A96;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--14" value="&lt;font&gt;&lt;strong&gt;Channels&lt;br&gt;&lt;/strong&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="288" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--15" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Mesin TrashMoney di lokasi strategis.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Aplikasi seluler untuk pelacakan lokasi dan status mesin.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Kampanye pemasaran sosial dan online.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="629" y="329" width="200" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD21F;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--17" value="&lt;div&gt;&lt;strong&gt;Customer&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Segments&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="860" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--18" value="&lt;ul&gt;&lt;li&gt;Individu yang peduli terhadap lingkungan.&lt;/li&gt;&lt;li&gt;Pedagang pengumpul sampah plastik.&lt;/li&gt;&lt;li&gt;Pemilik bisnis yang mendukung inisiatif daur ulang.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="130" width="200" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB3FC;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--20" value="&lt;strong&gt;Unique Value Propositions&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--21" value="&lt;ul&gt;&lt;li&gt;Penukaran botol plastik dengan uang secara instan.&lt;/li&gt;&lt;li&gt;Kontribusi positif terhadap pelestarian lingkungan.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="429" y="93" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8A909C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--23" value="&lt;strong&gt;Cost Structure&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--24" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Perawatan dan pemeliharaan mesin TrashMoney.&lt;/li&gt;&lt;li&gt;Biaya pemasangan mesin di lokasi strategis.&lt;/li&gt;&lt;li&gt;Biaya pemasaran dan promosi.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="50" y="496" width="460" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--26" value="&lt;strong&gt;Revenue Streams&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--27" value="&lt;ul&gt;&lt;li&gt;Pendapatan dari penjualan botol plastik yang terkumpul.&lt;/li&gt;&lt;li&gt;Pendapatan dari iklan atau sponsor yang mendukung inisiatif lingkungan.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="536" y="499" width="440" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--28" value="&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Pengumpulan Sampah Tradisional:&lt;/strong&gt; Beberapa masyarakat masih menggunakan model pengumpulan sampah tradisional, tetapi tidak memberikan insentif finansial.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Program Daur Ulang Pemerintah:&lt;/strong&gt; Program pemerintah ada, tetapi mungkin kurang langsung dan kurang memberikan kepuasan instan kepada individu.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="344" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--29" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Existing&lt;br&gt;Aternatives&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--30" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;High-Level Concept&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="252" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--31" value="&lt;ul&gt;&lt;li&gt;&lt;strong&gt;TrashMoney adalah platform penukaran botol plastik instan yang memberikan insentif uang.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Tujuannya adalah mengurangi pembuangan sampah plastik dan meningkatkan kesadaran lingkungan.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kami menempatkan mesin Pfand di lokasi strategis untuk memudahkan akses.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="419" y="344" width="221" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--32" value="&lt;strong style=&quot;font-size: 18px;&quot;&gt;Early Adopters&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="860" y="290" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="78ibLP574exwTAd41yx--33" value="&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Pengguna yang Peduli Lingkungan:&lt;/strong&gt; Orang-orang yang sudah peduli terhadap isu lingkungan kemungkinan besar menjadi early adopter.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kecenderungan Pelaku Bisnis Hijau:&lt;/strong&gt; Pemilik bisnis yang memiliki kesadaran lingkungan dan ingin mendukung inisiatif daur ulang.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="350" width="223" height="101" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
